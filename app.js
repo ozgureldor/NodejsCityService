@@ -12,7 +12,7 @@ app.get('/hello', (req, res) => {
   res.send('Hello World! to  ');
 });
 app.get('/eldor', (req, res) => {
-    res.send('Hello Eldor! World ');
+    res.send('Hello Eldor! World 1 ');
   });
 
 // GET
